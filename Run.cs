@@ -9,7 +9,8 @@ namespace HackerRank_CSharp
         {
             // Console.WriteLine(SockMerchant.sockMerchant(6, new []{10,10,30,10,50,50}));
             // Console.WriteLine(CountingValleys.countingValleys(0, "DDUUUUDDDDDDDUU"));
-            Day6_LetsReview.Main(null);
+            // Day6_LetsReview.Main(null);
+            RepeatedString.Main(null);
         }
     }
 }
