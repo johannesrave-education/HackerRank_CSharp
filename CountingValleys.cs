@@ -3,7 +3,6 @@ using System.Linq;
 
 class CountingValleys
 {
-
     /*
      * Complete the 'countingValleys' function below.
      *
@@ -24,7 +23,9 @@ class CountingValleys
             if(c == 'D')
             {
                 if(altitude == 0)
+                {
                     noOfValleys++;
+                }
                 altitude--;
             }
             else if (c == 'U')
