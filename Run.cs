@@ -11,7 +11,8 @@ namespace HackerRank_CSharp
             // Console.WriteLine(CountingValleys.countingValleys(0, "DDUUUUDDDDDDDUU"));
             // Day6_LetsReview.Main(null);
             // Arrays_2DArray.Main(null);
-            Arrays_LeftRotation.Main(null);
+            // Arrays_LeftRotation.Main(null);
+            Arrays_MinimumSwaps2.Main(null);
         }
     }
 }
